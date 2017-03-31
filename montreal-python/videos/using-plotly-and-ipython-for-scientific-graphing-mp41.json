@@ -1,0 +1,29 @@
+{
+  "copyright_text": "Creative Commons Attribution license (reuse allowed)",
+  "description": "Montreal, November 11, 2013 -- Using Plotly and iPython for Scientific Graphing by Chris Parmer from Plotly.\n\nSource of the presentation: http://nbviewer.ipython.org/github/plotly/IPython-plotly/tree/master/\n\nUseful links:\n* Plotly: https://plot.ly/\n* iPython: http://ipython.org/\n* Chris Parmer: https://github.com/cparmer\n* MP41: http://sflx.ca/mp41\n* Montreal Python: http://montrealpython.org\n* Savoir-faire Linux: http://www.savoirfairelinux.com",
+  "duration": 665,
+  "language": "eng",
+  "recorded": "2013-11-13",
+  "related_urls": [
+    "https://plot.ly/",
+    "http://montrealpython.org",
+    "http://sflx.ca/mp41",
+    "http://www.savoirfairelinux.com",
+    "https://github.com/cparmer",
+    "http://nbviewer.ipython.org/github/plotly/IPython-plotly/tree/master/",
+    "http://ipython.org/"
+  ],
+  "speakers": [
+    "TODO",
+    "enter_manually"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/zG8FYPFU9n4/maxresdefault.jpg",
+  "title": "Using Plotly and iPython for Scientific Graphing #MP41",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=zG8FYPFU9n4"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "copyright_text": "Creative Commons Attribution license (reuse allowed)",
+  "description": "Montreal, Jan. 21, 2013 - Python developer \u00c9ric Araujo portraits Guido van Rossum, a Dutch computer programmer who is best known as the author of the Python programming language.\n\nUseful links:\n* Guido: http://en.wikipedia.org/wiki/Guido_van_Rossum\n* \u00c9ric: http://www.linkedin.com/in/merwok\n* MP34: http://montrealpython.org/2013/01/mp34/\n* Montreal Python: http://montrealpython.org\n* Savoir-faire Linux: http://www.savoirfairelinux.com",
+  "duration": 324,
+  "language": "eng",
+  "recorded": "2013-02-11",
+  "related_urls": [
+    "http://www.savoirfairelinux.com",
+    "http://montrealpython.org/2013/01/mp34/",
+    "http://www.linkedin.com/in/merwok",
+    "http://montrealpython.org",
+    "http://en.wikipedia.org/wiki/Guido_van_Rossum"
+  ],
+  "speakers": [
+    "TODO",
+    "enter_manually"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/3T0KeKvLub4/maxresdefault.jpg",
+  "title": "Person of the Month: Guido van Rossum #MP34",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=3T0KeKvLub4"
+    }
+  ]
+}

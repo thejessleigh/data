@@ -1,0 +1,23 @@
+{
+  "copyright_text": "Creative Commons Attribution license (reuse allowed)",
+  "description": "Francois \"EiNSTeiN_\" Chagnon nous parle d'un d\u00e9compilateur de programme en C et C++ d\u00e9velopp\u00e9 en Python.\nSource: http://montrealpython.org/fr/2013/06/mp38/",
+  "duration": 622,
+  "language": "eng",
+  "recorded": "2013-07-10",
+  "related_urls": [
+    "http://montrealpython.org/fr/2013/06/mp38/"
+  ],
+  "speakers": [
+    "TODO",
+    "enter_manually"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/5GR7lfUArIE/maxresdefault.jpg",
+  "title": "\u00c9crire un d\u00e9compilateur C en Python #MP38",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=5GR7lfUArIE"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "copyright_text": "Standard YouTube License",
+  "description": "",
+  "duration": 1236,
+  "language": "eng",
+  "recorded": "2011-11-23",
+  "related_urls": [],
+  "speakers": [
+    "TODO",
+    "enter_manually"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/QJ7kblGBItM/maxresdefault.jpg",
+  "title": "00010",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=QJ7kblGBItM"
+    }
+  ]
+}
