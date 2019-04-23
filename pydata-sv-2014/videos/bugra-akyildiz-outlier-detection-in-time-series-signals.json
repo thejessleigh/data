@@ -1,19 +1,27 @@
 {
   "copyright_text": null,
-  "description": "",
+  "description": "Many real-world datasets have missing observations, noise and outliers; usually due to logistical problems, component failures and erroneous procedures during the data collection process. Although it is easy to avoid missing points and noise to some level, it is not easy to detect wrong measurements and outliers in the dataset. These outliers may present a larger problem in time-series signals since every data point has a temporal dependency to the data point before and after. Therefore, it is crucially important to be able to detect and possibly correct these outliers. In this talk, I will introduce three different methods to be able to detect outliers in time-series signals; Fast Fourier Transform(FFT), Median Filtering and Bayesian approach. ",
   "duration": 2190,
   "language": "eng",
-  "recorded": "2014-05-02",
+  "recorded": "2014-05-04",
   "related_urls": [
     {
       "label": "Conference schedule",
       "url": "https://pydata.org/sv2014/schedule/"
+    },
+    {
+      "label": "Abstract",
+      "url": "https://pydata.org/sv2014/abstracts/#187"
+    },
+    {
+      "label": "Speaker information",
+      "url": "https://pydata.org/sv2014/speakers/#270"
     }
   ],
-  "speakers": [],
-  "tags": [],
+  "speakers": ["Bugra Akyildiz"],
+  "tags": ["data", "time series", "fft", "median filtering", "bayesian"],
   "thumbnail_url": "https://i.ytimg.com/vi/t4zEeujVht8/maxresdefault.jpg",
-  "title": "Bugra Akyildiz - Outlier Detection in Time Series Signals",
+  "title": "Outlier Detection in Time Series Signals",
   "videos": [
     {
       "type": "youtube",

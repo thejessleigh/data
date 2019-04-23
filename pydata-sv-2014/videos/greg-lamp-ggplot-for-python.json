@@ -1,6 +1,6 @@
 {
   "copyright_text": null,
-  "description": "",
+  "description": "Making basic, good-looking plots in Python is tough. Matplotlib gives you great control, but at the expense of being very detailed. The rise of pandas has made Python the go-to language for data wrangling and munging but many people are still reluctant to leave R because of its outstanding data viz packages. ggplot is a port of the popular R package ggplot2. It provides a high level grammar that allow users to quickly and easily make good looking plots. So say good-bye to matplotlib, and hello to ggplot as your everyday Python plotting library! ",
   "duration": 3588,
   "language": "eng",
   "recorded": "2014-05-02",
@@ -8,12 +8,20 @@
     {
       "label": "Conference schedule",
       "url": "https://pydata.org/sv2014/schedule/"
+    },
+    {
+      "label": "Abstract",
+      "url": "https://pydata.org/sv2014/abstracts/#202"
+    },
+    {
+      "label": "Speaker information",
+      "url": "https://pydata.org/sv2014/speakers/#125"
     }
   ],
-  "speakers": [],
-  "tags": [],
+  "speakers": ["Greg Lamp"],
+  "tags": ["data", "graph", "plot", "ggplot", "tutorial"],
   "thumbnail_url": "https://i.ytimg.com/vi/pHrwqLhAaMw/maxresdefault.jpg",
-  "title": "Greg Lamp - ggplot For Python",
+  "title": "ggplot For Python",
   "videos": [
     {
       "type": "youtube",

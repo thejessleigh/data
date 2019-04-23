@@ -1,19 +1,38 @@
 {
   "copyright_text": null,
-  "description": "",
+  "description": "The The Greater Plains Collaborative (GPC) is a new network of 10 leading medical centers in 7 states working to improve healthcare delivery and advance research by mining electronic medical records and patient registries. To do this, we must de-identify and securely migrate patient data from heterogeneous formats (e.g. Clarity, IDX, NAACCR) to our data warehouse platform (HERON) which is built on top of I2B2. Task dependencies in the complex network of python scripts that wrap our SQL code is managed via paver, permitting a robust, modular, and maintainable architecture. In the process, we developed new python tools for generating dependency graphs from SQL code and for integrating R and RedCap into our analytical pipeline. Moreover, by adapting our python code to work across multiple member institutions we have started moving toward a generic workflow for building, testing, documenting, and deploying medical informatics research data warehouses.",
   "duration": 2026,
   "language": "eng",
-  "recorded": "2014-05-02",
+  "recorded": "2014-05-04",
   "related_urls": [
     {
       "label": "Conference schedule",
       "url": "https://pydata.org/sv2014/schedule/"
+    },
+    {
+      "label": "Slides",
+      "url": "http://www.kumc.edu/Documents/eami/heron-pydata-neutral-theme.pdf"
+    },
+    {
+      "label": "Abstract",
+      "url": "https://pydata.org/sv2014/abstracts/#193"
+    },
+    {
+      "label": "Speaker information: Alex. F. Bokov",
+      "url": "https://pydata.org/sv2014/speakers/#271"
+    },
+    {
+      "label": "Speaker information: Dan Connolly",
+      "url": "https://pydata.org/sv2014/speakers/#275"
     }
   ],
-  "speakers": [],
-  "tags": [],
+  "speakers": [
+    "Alex Bokov",
+    "Dan Connolly"
+  ],
+  "tags": ["paver", "data", "etl"],
   "thumbnail_url": "https://i.ytimg.com/vi/9R9n7zpkauQ/maxresdefault.jpg",
-  "title": "Alex Bokov & Dan Connolly - Using Python and Paver to Control a Large Medical Informatics",
+  "title": "Using Python and Paver to Control a Large Medical Informatics",
   "videos": [
     {
       "type": "youtube",

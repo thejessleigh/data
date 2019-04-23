@@ -1,19 +1,27 @@
 {
   "copyright_text": null,
-  "description": "",
+  "description": "PyAlgoViz is an HTML5 browser application that allows Python students and practitioners to prototype an algorithm, visualize it, replay the execution, and share the end-result with others. A great use would be as a tool in the Datastructures and Algorithm track of the Computer Science curriculum.",
   "duration": 3849,
   "language": "eng",
-  "recorded": "2014-05-02",
+  "recorded": "2014-05-03",
   "related_urls": [
     {
       "label": "Conference schedule",
       "url": "https://pydata.org/sv2014/schedule/"
+    },
+    {
+      "label": "Speaker information",
+      "url": "https://pydata.org/sv2014/speakers/#289"
+    },
+    {
+      "label": "Abstract",
+      "url": "https://pydata.org/sv2014/abstracts/#215"
     }
   ],
-  "speakers": [],
-  "tags": [],
+  "speakers": ["Chris Laffra"],
+  "tags": ["pyalgoviz", "education"],
   "thumbnail_url": "https://i.ytimg.com/vi/poQKuXgNd88/maxresdefault.jpg",
-  "title": "Chris Laffra - PyAlgoViz: Python Algorithm Visualization in the Browser",
+  "title": "PyAlgoViz: Python Algorithm Visualization in the Browser",
   "videos": [
     {
       "type": "youtube",

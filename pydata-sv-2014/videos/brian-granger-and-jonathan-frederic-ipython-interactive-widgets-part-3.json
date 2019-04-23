@@ -1,6 +1,6 @@
 {
   "copyright_text": null,
-  "description": "",
+  "description": "IPython provides an architecture for interactive computing. The IPython Notebook is a web-based interactive computing environment for exploratory and reproducible computing. With the IPython Notebook, users create documents, called notebooks, that contain formatted text, figures, equations, programming code, and code output. As of version 2.0, the IPython Notebook includes interactive JavaScript widgets. These widgets provide a way for users to interact with UI controls in the browser that are tied to Python code in running in the kernel. We will begin by covering the highest-level API for these widgets, \"interact,\" which automatically builds a user interface for exploring a Python function. Next we will describe the lower-level widget objects that are included with IPython: sliders, text boxes, buttons, etc. However, the full potential of the widget framework lies with its extensibility. Users can create their own custom widgets using Python, JavaScript, HTML and CSS. We will conclude with a detailed look at custom widget creation. Python Dependencies: IPython 2.0 or latest stable running on Anaconda or Canopy Additional Comments: Attendees should already know Python and be familiar with the IPython Notebook. Some JavaScript/HTML/CSS experience will also be helpful.",
   "duration": 4171,
   "language": "eng",
   "recorded": "2014-05-02",
@@ -8,12 +8,35 @@
     {
       "label": "Conference schedule",
       "url": "https://pydata.org/sv2014/schedule/"
+    },
+    {
+      "label": "Abstract",
+      "url": "https://pydata.org/sv2014/abstracts/#198"
+    },
+    {
+      "label": "Speaker information: Brian Granger",
+      "url": "https://pydata.org/sv2014/speakers/#106"
+    },
+    {
+      "label": "Speaker information: Jonathan Frederic",
+      "url": "https://pydata.org/sv2014/speakers/#262"
+    },
+    {
+      "label": "Part 1",
+      "url": "https://www.youtube.com/watch?v=VaV10VNZCLA"
+    },
+    {
+      "label": "Part 2",
+      "url": "https://www.youtube.com/watch?v=vE_CJTen15M"
     }
   ],
-  "speakers": [],
-  "tags": [],
+  "speakers": [
+    "Brian Granger",
+    "Jonathan Frederic"
+  ],
+  "tags": ["tutorial", "ipython"],
   "thumbnail_url": "https://i.ytimg.com/vi/o7Tb7YhJZR0/maxresdefault.jpg",
-  "title": "Brian Granger and Jonathan Frederic - IPython Interactive Widgets, Part 3",
+  "title": "IPython Interactive Widgets, Part 3",
   "videos": [
     {
       "type": "youtube",

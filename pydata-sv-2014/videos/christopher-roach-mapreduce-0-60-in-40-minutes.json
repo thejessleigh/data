@@ -1,6 +1,6 @@
 {
   "copyright_text": null,
-  "description": "",
+  "description": "In 2004, at the Sixth Symposium on Operating System Design and Implementation, Jeffrey Dean and Sanjay Ghemawat, a couple of engineers working for Google, published a paper titled \"MapReduce: Simplified Data Processing on Large Clusters\" that introduced the world to a simple, yet powerful heuristic for processing large amounts of data at previously unheard of scales. Though the concepts were not new---map and reduce had existed for quite some time in functional programming languages---the observation that they could be used as a general programming paradigm for solving large data processing problems changed the current state of the art.\nThe goal of the tutorial is to give attendees a basic working knowledge of what MapReduce is, and how it can be used to process massive sets of data relatively quickly. We will walk through the basics of what MapReduce is and how it works. Though there are a handful of MapReduce implementations out there to choose from, Hadoop is without a doubt the most well known and, as such, we will take a look at how to use it to run our MapReduce jobs. With that in mind, we will discuss what you need to know to use Hadoop and take a look at how to write our own Hadoop jobs in Python using the Hadoop Streaming utility. Finally, we'll look at a library created at Yelp called MRJob that can make writing Hadoop jobs in Python much easier. By the end of the tutorial an attendee with little to no knowledge of MapReduce, but a working knowledge of Python, should be able to write their own basic MapReduce tasks for Hadoop and run them on a cluster of machines using Amazon's Elastic MapReduce service.",
   "duration": 3259,
   "language": "eng",
   "recorded": "2014-05-02",
@@ -8,12 +8,20 @@
     {
       "label": "Conference schedule",
       "url": "https://pydata.org/sv2014/schedule/"
+    },
+    {
+      "label": "Abstract",
+      "url": "https://pydata.org/sv2014/abstracts/#189"
+    },
+    {
+      "label": "Speaker information",
+      "url": "https://pydata.org/sv2014/speakers/#237"
     }
   ],
-  "speakers": [],
-  "tags": [],
+  "speakers": ["Christopher Roach"],
+  "tags": ["tutorial", "mapreduce", "hadoop"],
   "thumbnail_url": "https://i.ytimg.com/vi/DrCKkQeU4kg/maxresdefault.jpg",
-  "title": "Christopher Roach - MapReduce: 0-60 in 40 minutes",
+  "title": "MapReduce: 0-60 in 40 minutes",
   "videos": [
     {
       "type": "youtube",

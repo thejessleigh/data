@@ -1,19 +1,27 @@
 {
   "copyright_text": null,
-  "description": "",
+  "description": "While the Python ecosystem thrives at in-memory data analysis, what is missing is a high performance, seamless integration with a persistent data store. When dealing with larger datasets, data scientists are forced to think more carefully about low-level bookkeeping details -- this inhibits discovery. SciDB-Py addresses this problem by providing a high-level interface to SciDB -- a high performance database optimized for array-based computation at scale.",
   "duration": 3098,
   "language": "eng",
-  "recorded": "2014-05-02",
+  "recorded": "2014-05-03",
   "related_urls": [
     {
       "label": "Conference schedule",
       "url": "https://pydata.org/sv2014/schedule/"
+    },
+    {
+      "label": "Abstract",
+      "url": "https://pydata.org/sv2014/abstracts/#186"
+    },
+    {
+      "label": "Speaker information",
+      "url": "https://pydata.org/sv2014/speakers/#255"
     }
   ],
-  "speakers": [],
-  "tags": [],
+  "speakers": ["Chris Beaumont"],
+  "tags": ["data", "performance", "scidb-py", "database"],
   "thumbnail_url": "https://i.ytimg.com/vi/gpMT17644mM/maxresdefault.jpg",
-  "title": "Chris Beaumont - Data Analysis with SciDB-Py",
+  "title": "Data Analysis with SciDB-Py",
   "videos": [
     {
       "type": "youtube",

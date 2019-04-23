@@ -1,6 +1,6 @@
 {
   "copyright_text": null,
-  "description": "",
+  "description": "PlanOut is an open-source framework developed at Facebook for designing, implementing, and logging online experiments. This tutorial teaches you how to create both simple A/B tests and complex experiments in Python, as well as best practices for managing and analyzing experiments. We will also be taking a deep dive into how PlanOut is organized and can be extended to fit into production environments. For more information, see the PlanOut page on Github http://facebook.github.io/planout",
   "duration": 4195,
   "language": "eng",
   "recorded": "2014-05-02",
@@ -8,12 +8,20 @@
     {
       "label": "Conference schedule",
       "url": "https://pydata.org/sv2014/schedule/"
+    },
+    {
+      "label": "Speaker information",
+      "url": "https://pydata.org/sv2014/speakers/#280"
+    },
+    {
+      "label": "Abstract",
+      "url": "https://pydata.org/sv2014/abstracts/#177"
     }
   ],
-  "speakers": [],
-  "tags": [],
+  "speakers": ["Eytan Bakshy"],
+  "tags": ["planout", "ab testing", "experiments", "tutorial"],
   "thumbnail_url": "https://i.ytimg.com/vi/Ayd4sqPH2DE/maxresdefault.jpg",
-  "title": "Eytan Bakshy - Designing and Deploying Online Experiments with PlanOut",
+  "title": "Designing and Deploying Online Experiments with PlanOut",
   "videos": [
     {
       "type": "youtube",
